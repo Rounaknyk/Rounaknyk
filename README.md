@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - LinkedIn : https://www.linkedin.com/in/rounak-naik-39354021b/
-- Instagram : rounak_nyk
+- Instagram : https://www.instagram.com/rounak_nyk
 
 <!---
 Rounaknyk/Rounaknyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
