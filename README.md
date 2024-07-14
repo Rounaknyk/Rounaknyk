@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Rounaknyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 FullStack Developer
+- 🌱 I’m currently pursuing B.E
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+- LinkedIn : https://www.linkedin.com/in/rounak-naik-39354021b/
+- Instagram : rounak_nyk
 
 <!---
 Rounaknyk/Rounaknyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
