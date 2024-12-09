@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rounaknyk
 - 👀 FullStack Developer
 - 🌱 I’m currently pursuing B.E
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - LinkedIn : https://www.linkedin.com/in/rounak-naik-39354021b/
 - Instagram : https://www.instagram.com/rounak_nyk
